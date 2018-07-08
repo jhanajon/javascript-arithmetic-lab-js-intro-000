@@ -27,7 +27,7 @@ function dec(a,b) {
 
 function makeInt(a,n) {
   a = parseInt(a.toString);
-  n = 10;
+  n = parseInt(n.toString);
 
 }
 {
