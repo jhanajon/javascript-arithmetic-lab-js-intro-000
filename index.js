@@ -25,10 +25,8 @@ function dec(a,b) {
  return a - 1;
 }
 
-function makeInt(a) {
+function makeInt(n) {
   a = parseInt(a.toString);
-//  n.parseInt() === 10;
-
 }
 {
   // (makeInt('0x2328')).toEqual(0)
