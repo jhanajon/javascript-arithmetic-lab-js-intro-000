@@ -26,7 +26,7 @@ function dec(a,b) {
 }
 
 function makeInt(n) {
-n = 10;
+n = parseInt() === (10);
 
 }
 {
