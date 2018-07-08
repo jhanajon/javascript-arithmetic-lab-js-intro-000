@@ -25,8 +25,9 @@ function dec(a,b) {
  return a - 1;
 }
 
-function makeInt(n) {
-n = parseInt() === (10);
+function makeInt(a) {
+  a = parseInt(a.toString);
+//  n.parseInt() === 10;
 
 }
 {
