@@ -47,8 +47,8 @@ describe('makeInt(n)', function() {
 })
 
 
-describe('sayHello()', function(){
-  it('says hello to a person', function(){
+describe('sayHello(name)', function(){
+  it('says hello to the name', function(){
     expect(sayHello("Nick")).toEqual("Hello, Nick")
     expect(sayHello("Abel")).toEqual("Hello, Abel")
   })
