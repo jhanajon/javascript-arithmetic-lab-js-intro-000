@@ -35,6 +35,6 @@ function makeInt(n) {
 //  n = 0;
 }
 
-function sayHello(n){
-  return "Hello, " + n
+function sayHello(name){
+  return "Hello, " + name
 }
