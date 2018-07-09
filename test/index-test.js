@@ -49,7 +49,7 @@ describe('makeInt(n)', function() {
 
 describe('sayHello()', function(){
   it('says hello to a person', function(){
-    expect(sayHello("Nick").toEqual("Hello, Nick"))
+    expect(sayHello("Nick")).toEqual("Hello, Nick")
   })
 })
 
