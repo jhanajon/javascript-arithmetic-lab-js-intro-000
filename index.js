@@ -27,7 +27,7 @@ function dec(a,b) {
 
 function makeInt(n) {
 //makeInt(a.toString())).toEqual(a)
-return "joe" + n
+return "12345" + n
 }
 
 {
