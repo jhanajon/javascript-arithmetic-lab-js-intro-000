@@ -26,10 +26,7 @@ function dec(a,b) {
 }
 
 function makeInt(n) {
-//`makeInt(a.toString())`).toEqual(a)
   return parseInt(n, 10)
-  // (makeInt('0x2328')).toEqual(0)
-//  n = 0;
 }
 
 function sayHello(name){
