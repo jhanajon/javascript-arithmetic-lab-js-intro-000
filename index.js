@@ -26,10 +26,15 @@ function dec(a,b) {
 }
 
 function makeInt(n) {
-n = parseInt() === (10);
+//makeInt(a.toString())).toEqual(a)
+
 }
 
 {
   // (makeInt('0x2328')).toEqual(0)
 //  n = 0;
+}
+
+function sayHello(){
+  
 }
