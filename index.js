@@ -29,9 +29,9 @@ function makeInt(n) {
   return parseInt(n,10)
 }
 
-function sayHello(name){
-  return "Hello, " + name
-}
+// function sayHello(name){
+//   return "Hello, " + name
+// }
 
 preserveDecimal(n) {
   return parseFloat(n,10)
