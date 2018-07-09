@@ -26,8 +26,8 @@ function dec(a,b) {
 }
 
 function makeInt(n) {
-//makeInt(a.toString())).toEqual(a)
-return "345" + n
+//`makeInt(a.toString())`).toEqual(a)
+  return
 }
 
 {
