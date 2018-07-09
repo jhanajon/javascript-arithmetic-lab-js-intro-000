@@ -27,9 +27,7 @@ function dec(a,b) {
 
 function makeInt(n) {
 //`makeInt(a.toString())`).toEqual(a)
-  return
-
-
+  return parseInt()
   // (makeInt('0x2328')).toEqual(0)
 //  n = 0;
 }
