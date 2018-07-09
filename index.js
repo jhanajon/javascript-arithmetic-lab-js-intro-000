@@ -32,3 +32,7 @@ function makeInt(n) {
 function sayHello(name){
   return "Hello, " + name
 }
+
+preserveDecimal(n) {
+  return parseFloat(n,10)
+}
