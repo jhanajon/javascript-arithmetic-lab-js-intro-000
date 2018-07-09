@@ -26,7 +26,7 @@ function dec(a,b) {
 }
 
 function makeInt(n) {
-  return parseInt(n,10)
+  return parseInt(n)
 }
 
 // function sayHello(name){
